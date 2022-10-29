@@ -33,4 +33,4 @@ $
 ```
 ##### As you can see, it executed the ls command. You can use this to do anything!
 
-Found by Mr Freeman#5361, (Deniied0)[https://github.com/Deniied0], (Jollycistaken)[https://github.com/Jollycistaken], (Zer0-AI)[https://github.com/Zer0-AI]
+Found by Mr Freeman#5361, [Deniied0](https://github.com/Deniied0) [Jollycistaken](https://github.com/Jollycistaken), [Zer0-AI](https://github.com/Zer0-AI)
