@@ -31,6 +31,10 @@ total 40
 $ ./shellcode.lua
 $
 ```
+
+https://user-images.githubusercontent.com/83131157/198812593-8ee01338-89d4-4b6d-b70b-89970996a72a.mp4
+
+
 ##### As you can see, it executed the ls command. You can use this to do anything!
 
 Found by [Deniied0](https://github.com/Deniied0), [Jollycistaken](https://github.com/Jollycistaken), Mr Freeman#5361, [Zer0-AI](https://github.com/Zer0-AI)
