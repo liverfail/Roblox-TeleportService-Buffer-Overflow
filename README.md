@@ -1,6 +1,8 @@
 # Roblox-TeleportService-Buffer-Overflow
 ## Teleporting to a non-existent country to cause a ROBLOX Buffer overflow
 
+## Just to clarify, this repo was a joke and doesn't actually work, some people actually thought this was real (LOL!)
+
 I've found that if you try to teleport to a non-existent country, you can cause a buffer overflow.
 To reproduce:
 1. Join a game on ROBLOX
